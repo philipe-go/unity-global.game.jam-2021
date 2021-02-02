@@ -20,7 +20,7 @@ This project was done during the GGJ 2021 (Global Game Jam 2021)
 Evil Skullatron6000 has kidnapped your pet and scattered your memory chips across the land. Regain your memories, dodge enemies, rescue your pet and destroy the evil Skullatron once and for all!
 
 # :video_game: Play the game!   
-- [link 1](https://philipego.itch.io/missing)
+- [link 1](https://philipego.itch.io/missing) 
 - [link 2](https://eternalodyssey10.itch.io/missing)
 - [link 3](https://starshums.itch.io/missing)
 - [link 4](https://vanillaspace.itch.io/missing)
