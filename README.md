@@ -27,7 +27,7 @@ Evil Skullatron6000 has kidnapped your pet and scattered your memory chips acros
 
 # :video_game: How to play!   
 
-<p align="center"><img src="./media/controlls.png" width="50%" height="50%"></p>
+<p align="center"><img src="./media/control.png" width="50%" height="50%"></p>
 
 # :man_technologist: The Team 
 
