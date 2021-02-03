@@ -25,6 +25,9 @@ Evil Skullatron6000 has kidnapped your pet and scattered your memory chips acros
 - [link 3](https://starshums.itch.io/missing)
 - [link 4](https://vanillaspace.itch.io/missing)
 
+# :video_game: How to play!   
+
+<p align="center"><img src="./media/controlls.png" width="50%" height="50%"></p>
 
 # :man_technologist: The Team 
 
